@@ -55,4 +55,5 @@
   <h2>Conclusion</h2>
     <p>The <strong>CrecheApp</strong> is an example of how OOP principles, GUI creation, and the use of collections such as ArrayList can be applied in a Java application. It provides a simple yet effective way to register kids in a creche system and manage the data dynamically.</p>
 </body>
+<h3>Developed by Sfiso Vinjwa</h3>
 </html>
